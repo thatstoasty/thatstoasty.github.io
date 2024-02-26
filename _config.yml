@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Mikhail Tavarez
 
 # Your name to show in the footer
 author: Mikhail Tavarez
@@ -21,9 +21,8 @@ author: Mikhail Tavarez
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Resume: "aboutme"
+  Projects: "aboutme"
   Author's home: "https://thatstoasty.github.io"
 
 ################
@@ -71,7 +70,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "thatstoasty.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
