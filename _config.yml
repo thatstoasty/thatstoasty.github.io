@@ -21,8 +21,8 @@ author: Mikhail Tavarez
 
 navbar-links:
   About Me: "aboutme"
-  Resume: "aboutme"
-  Projects: "aboutme"
+  Resume: "resume"
+  Projects: "projects"
   Author's home: "https://thatstoasty.github.io"
 
 ################
